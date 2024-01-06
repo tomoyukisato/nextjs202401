@@ -81,3 +81,5 @@ sketch
 
 # Built Visual Studio Code Extensions
 *.vsix
+
+.env
